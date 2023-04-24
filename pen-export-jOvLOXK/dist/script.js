@@ -1,0 +1,1 @@
+document.write("你平安 我平安 大家平安")
